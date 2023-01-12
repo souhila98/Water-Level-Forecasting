@@ -1,7 +1,7 @@
 # Water-Level-Forecasting
 Part of the Algeria chapter green/ Omdena project
 
-⛲ Water Level Forecasting-Team 1
+⛲ Water Level Forecasting
 
 🧿 Introduction
 
