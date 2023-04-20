@@ -20,7 +20,8 @@ Data Description: Attribute Information:
 datetime: date and hour of the measurement in utc time level: level of the water in cm from the reference point
 
 📊 MODULE WORKFLOW
-https://user-images.githubusercontent.com/65725230/193627592-a625f93e-263f-414e-9c56-3eaa21a51484.png
+
+![193627592-a625f93e-263f-414e-9c56-3eaa21a51484](https://user-images.githubusercontent.com/65725230/233369200-98c67b24-1322-4001-a999-65a64c5950b3.png)
 
 Load data
 
